@@ -1,4 +1,4 @@
-# technohacks_task-3
+# Calculator 
 A simple calculator made using HTML, CSS, JavaScript 
 
-## View Live : https://sania-52.github.io/calculator/
+# View Live : https://sania-52.github.io/calculator/
